@@ -23,24 +23,3 @@ int main(){
     }
     return 0;
 }
-/* #include <bits/stdc++.h>
-using namespace std;
-
-string x_next(string x){
-    return to_string(x.size());
-}
-
-int main(){
-    string x0;
-
-    while (getline(cin, x0) && x0 != "END"){
-        if (x0.size() == 1){
-            cout << 1 << endl;
-        } else if (x0.size() < 1e10){
-            cout << 3 << endl;
-        } else{
-            cout << 4 << endl;
-        }
-    }
-    return 0;
-} */
