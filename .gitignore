@@ -1,2 +1,6 @@
 .vscode/
 *.out
+*:Zone.Identifier
+*.zip
+*.in
+*.ans
