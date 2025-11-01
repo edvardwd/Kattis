@@ -4,3 +4,7 @@
 *.zip
 *.in
 *.ans
+.venv
+/*.py
+*.txt
+__pycache__
