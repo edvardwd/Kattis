@@ -23,6 +23,7 @@
 | [bluetooth](https://open.kattis.com/problems/bluetooth) | [C++](./bluetooth/main.cpp) |
 | [busassignment](https://open.kattis.com/problems/busassignment) | [C++](./busassignment/main.cpp) |
 | [cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](./cetvrta/main.py) |
+| [classrooms](https://open.kattis.com/problems/classrooms) | [C++](./classrooms/main.cpp) |
 | [commercials](https://open.kattis.com/problems/commercials) | [C++](./commercials/main.cpp) |
 | [compromise](https://open.kattis.com/problems/compromise) | [C++](./compromise/main.cpp) |
 | [conundrum](https://open.kattis.com/problems/conundrum) | [C++](./conundrum/main.cpp) |
