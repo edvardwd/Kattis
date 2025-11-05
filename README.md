@@ -1,89 +1,94 @@
 
 # My [Kattis](https://open.kattis.com) solutions
-| Problem | Solution |
-|:-------:|:--------:|
-| [aaah](https://open.kattis.com/problems/aaah) | [Python](./aaah/main.py) |
-| [abc](https://open.kattis.com/problems/abc) | [Python](./abc/main.py) |
-| [aboveaverage](https://open.kattis.com/problems/aboveaverage) | [C++](./aboveaverage/main.cpp) |
-| [addingtrouble](https://open.kattis.com/problems/addingtrouble) | [Python](./addingtrouble/main.py) |
-| [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) | [C++](./addtwonumbers/main.cpp) |
-| [alphabetspam](https://open.kattis.com/problems/alphabetspam) | [C++](./alphabetspam/main.cpp) |
-| [anotherbrick](https://open.kattis.com/problems/anotherbrick) | [C++](./anotherbrick/main.cpp) |
-| [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) | [C++](./apaxiaaans/main.cpp) |
-| [armcoordination](https://open.kattis.com/problems/armcoordination) | [C++](./armcoordination/main.cpp) |
-| [artichoke](https://open.kattis.com/problems/artichoke) | [C++](./artichoke/main.cpp) |
-| [aterriblefortress](https://open.kattis.com/problems/aterriblefortress) | [C](./aterriblefortress/main.c) |
-| [avoidingtheabyss](https://open.kattis.com/problems/avoidingtheabyss) | [C++](./avoidingtheabyss/main.cpp) |
-| [backspace](https://open.kattis.com/problems/backspace) | [C++](./backspace/main.cpp) |
-| [basicprogramming1](https://open.kattis.com/problems/basicprogramming1) | [C++](./basicprogramming1/main.cpp), [Python](./basicprogramming1/main.py) |
-| [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | [C++](./basicprogramming2/main.cpp) |
-| [battlesimulation](https://open.kattis.com/problems/battlesimulation) | [C++](./battlesimulation/main.cpp) |
-| [bela](https://open.kattis.com/problems/bela) | [C++](./bela/main.cpp) |
-| [bijele](https://open.kattis.com/problems/bijele) | [C++](./bijele/main.cpp) |
-| [bluetooth](https://open.kattis.com/problems/bluetooth) | [C++](./bluetooth/main.cpp) |
-| [busassignment](https://open.kattis.com/problems/busassignment) | [C++](./busassignment/main.cpp) |
-| [cetvrta](https://open.kattis.com/problems/cetvrta) | [Python](./cetvrta/main.py) |
-| [classrooms](https://open.kattis.com/problems/classrooms) | [C++](./classrooms/main.cpp) |
-| [commercials](https://open.kattis.com/problems/commercials) | [C++](./commercials/main.cpp) |
-| [compromise](https://open.kattis.com/problems/compromise) | [C++](./compromise/main.cpp) |
-| [conundrum](https://open.kattis.com/problems/conundrum) | [C++](./conundrum/main.cpp) |
-| [countdoubles](https://open.kattis.com/problems/countdoubles) | [C++](./countdoubles/main.cpp) |
-| [coursescheduling](https://open.kattis.com/problems/coursescheduling) | [C++](./coursescheduling/main.cpp) |
-| [cudoviste](https://open.kattis.com/problems/cudoviste) | [Python](./cudoviste/main.py) |
-| [datum](https://open.kattis.com/problems/datum) | [Python](./datum/main.py) |
-| [dicegame](https://open.kattis.com/problems/dicegame) | [Python](./dicegame/main.py) |
-| [digits](https://open.kattis.com/problems/digits) | [C++](./digits/main.cpp), [Python](./digits/main.py) |
-| [digitswap](https://open.kattis.com/problems/digitswap) | [Python](./digitswap/main.py) |
-| [divisible](https://open.kattis.com/problems/divisible) | [C++](./divisible/main.cpp) |
-| [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | [C++](./electricaloutlets/main.cpp) |
-| [empleh](https://open.kattis.com/problems/empleh) | [C++](./empleh/main.cpp) |
-| [encodedmessage](https://open.kattis.com/problems/encodedmessage) | [C++](./encodedmessage/main.cpp) |
-| [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) | [Python](./eyeofsauron/main.py) |
-| [filip](https://open.kattis.com/problems/filip) | [C++](./filip/main.cpp) |
-| [fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | [C++](./fizzbuzz/main.cpp) |
-| [friday](https://open.kattis.com/problems/friday) | [Python](./friday/main.py) |
-| [grid](https://open.kattis.com/problems/grid) | [C++](./grid/main.cpp) |
-| [haypoints](https://open.kattis.com/problems/haypoints) | [C++](./haypoints/main.cpp) |
-| [heartrate](https://open.kattis.com/problems/heartrate) | [C++](./heartrate/main.cpp) |
-| [helpaphd](https://open.kattis.com/problems/helpaphd) | [Python](./helpaphd/main.py) |
-| [helpme](https://open.kattis.com/problems/helpme) | [C++](./helpme/main.cpp) |
-| [infinitecash](https://open.kattis.com/problems/infinitecash) | [Python](./infinitecash/main.py) |
-| [islandhopping](https://open.kattis.com/problems/islandhopping) | [C++](./islandhopping/main.cpp) |
-| [justaminute](https://open.kattis.com/problems/justaminute) | [C++](./justaminute/main.cpp) |
-| [karte](https://open.kattis.com/problems/karte) | [C++](./karte/main.cpp) |
-| [knittingpattern](https://open.kattis.com/problems/knittingpattern) | [C++](./knittingpattern/main.cpp) |
-| [kornislav](https://open.kattis.com/problems/kornislav) | [Python](./kornislav/main.py) |
-| [ladder](https://open.kattis.com/problems/ladder) | [C++](./ladder/main.cpp) |
-| [lineup](https://open.kattis.com/problems/lineup) | [C++](./lineup/main.cpp) |
-| [listgame](https://open.kattis.com/problems/listgame) | [C++](./listgame/main.cpp) |
-| [marswindow](https://open.kattis.com/problems/marswindow) | [C++](./marswindow/main.cpp) |
-| [memorymatch](https://open.kattis.com/problems/memorymatch) | [Python](./memorymatch/main.py) |
-| [mia](https://open.kattis.com/problems/mia) | [C++](./mia/main.cpp) |
-| [multiplication](https://open.kattis.com/problems/multiplication) | [Python](./multiplication/main.py) |
-| [nineknights](https://open.kattis.com/problems/nineknights) | [C++](./nineknights/main.cpp) |
-| [nodup](https://open.kattis.com/problems/nodup) | [Python](./nodup/main.py) |
-| [nop](https://open.kattis.com/problems/nop) | [C++](./nop/main.cpp) |
-| [oddgnome](https://open.kattis.com/problems/oddgnome) | [C++](./oddgnome/main.cpp) |
-| [oddmanout](https://open.kattis.com/problems/oddmanout) | [C++](./oddmanout/main.cpp) |
-| [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | [C++](./ofugsnuid/main.cpp) |
-| [onechicken](https://open.kattis.com/problems/onechicken) | [C++](./onechicken/main.cpp) |
-| [pet](https://open.kattis.com/problems/pet) | [C++](./pet/main.cpp) |
-| [prerequisites](https://open.kattis.com/problems/prerequisites) | [C++](./prerequisites/main.cpp) |
-| [sangbok](https://open.kattis.com/problems/sangbok) | [Python](./sangbok/main.py) |
-| [savingdaylight](https://open.kattis.com/problems/savingdaylight) | [C++](./savingdaylight/main.cpp) |
-| [sevenwonders](https://open.kattis.com/problems/sevenwonders) | [C++](./sevenwonders/main.cpp) |
-| [shortcuttowhat](https://open.kattis.com/problems/shortcuttowhat) | [Python](./shortcuttowhat/main.py) |
-| [shuffling](https://open.kattis.com/problems/shuffling) | [Python](./shuffling/main.py) |
-| [sidewayssorting](https://open.kattis.com/problems/sidewayssorting) | [Python](./sidewayssorting/main.py) |
-| [simonsays](https://open.kattis.com/problems/simonsays) | [Python](./simonsays/main.py) |
-| [skammstofun](https://open.kattis.com/problems/skammstofun) | [C++](./skammstofun/main.cpp) |
-| [spavanac](https://open.kattis.com/problems/spavanac) | [C++](./spavanac/main.cpp) |
-| [speedlimit](https://open.kattis.com/problems/speedlimit) | [C++](./speedlimit/main.cpp) |
-| [stackingcups](https://open.kattis.com/problems/stackingcups) | [Python](./stackingcups/main.py) |
-| [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem) | [C++](./sumkindofproblem/main.cpp) |
-| [sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits) | [Python](./sumsquareddigits/main.py) |
-| [tajna](https://open.kattis.com/problems/tajna) | [C++](./tajna/main.cpp) |
-| [textmessaging](https://open.kattis.com/problems/textmessaging) | [Python](./textmessaging/main.py) |
-| [vauvau](https://open.kattis.com/problems/vauvau) | [Python](./vauvau/main.py) |
-| [wertyu](https://open.kattis.com/problems/wertyu) | [C++](./wertyu/main.cpp) |
-| [zamka](https://open.kattis.com/problems/zamka) | [C++](./zamka/main.cpp) |
+| Problem | Difficulty | Solution |
+|:-------:|:----------:|:--------:|
+| [shortcuttowhat](https://open.kattis.com/problems/shortcuttowhat) | 1.1 Easy | [Python](./shortcuttowhat/main.py) |
+| [aterriblefortress](https://open.kattis.com/problems/aterriblefortress) | 1.2 Easy | [C](./aterriblefortress/main.c) |
+| [bijele](https://open.kattis.com/problems/bijele) | 1.2 Easy | [C++](./bijele/main.cpp) |
+| [addingtrouble](https://open.kattis.com/problems/addingtrouble) | 1.2 Easy | [Python](./addingtrouble/main.py) |
+| [addtwonumbers](https://open.kattis.com/problems/addtwonumbers) | 1.2 Easy | [C++](./addtwonumbers/main.cpp) |
+| [digitswap](https://open.kattis.com/problems/digitswap) | 1.2 Easy | [Python](./digitswap/main.py) |
+| [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | 1.1 - 1.3 Easy | [C++](./ofugsnuid/main.cpp) |
+| [filip](https://open.kattis.com/problems/filip) | 1.3 Easy | [C++](./filip/main.cpp) |
+| [fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | 1.3 Easy | [C++](./fizzbuzz/main.cpp) |
+| [pet](https://open.kattis.com/problems/pet) | 1.3 Easy | [C++](./pet/main.cpp) |
+| [cetvrta](https://open.kattis.com/problems/cetvrta) | 1.4 Easy | [Python](./cetvrta/main.py) |
+| [helpaphd](https://open.kattis.com/problems/helpaphd) | 1.4 Easy | [Python](./helpaphd/main.py) |
+| [sumkindofproblem](https://open.kattis.com/problems/sumkindofproblem) | 1.4 Easy | [C++](./sumkindofproblem/main.cpp) |
+| [electricaloutlets](https://open.kattis.com/problems/electricaloutlets) | 1.4 Easy | [C++](./electricaloutlets/main.cpp) |
+| [spavanac](https://open.kattis.com/problems/spavanac) | 1.4 Easy | [C++](./spavanac/main.cpp) |
+| [aaah](https://open.kattis.com/problems/aaah) | 1.4 Easy | [Python](./aaah/main.py) |
+| [zamka](https://open.kattis.com/problems/zamka) | 1.4 Easy | [C++](./zamka/main.cpp) |
+| [apaxiaaans](https://open.kattis.com/problems/apaxiaaans) | 1.4 Easy | [C++](./apaxiaaans/main.cpp) |
+| [sumsquareddigits](https://open.kattis.com/problems/sumsquareddigits) | 1.4 Easy | [Python](./sumsquareddigits/main.py) |
+| [bela](https://open.kattis.com/problems/bela) | 1.4 Easy | [C++](./bela/main.cpp) |
+| [simonsays](https://open.kattis.com/problems/simonsays) | 1.4 Easy | [Python](./simonsays/main.py) |
+| [busassignment](https://open.kattis.com/problems/busassignment) | 1.4 Easy | [C++](./busassignment/main.cpp) |
+| [arithmeticadaptation](https://open.kattis.com/problems/arithmeticadaptation) | 1.4 Easy | [Python](./arithmeticadaptation/main.py) |
+| [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) | 1.5 Easy | [Python](./eyeofsauron/main.py) |
+| [karte](https://open.kattis.com/problems/karte) | 1.5 Easy | [C++](./karte/main.cpp) |
+| [alphabetspam](https://open.kattis.com/problems/alphabetspam) | 1.5 Easy | [C++](./alphabetspam/main.cpp) |
+| [cudoviste](https://open.kattis.com/problems/cudoviste) | 1.5 Easy | [Python](./cudoviste/main.py) |
+| [backspace](https://open.kattis.com/problems/backspace) | 1.1 - 1.5 Easy | [C++](./backspace/main.cpp) |
+| [speedlimit](https://open.kattis.com/problems/speedlimit) | 1.5 Easy | [C++](./speedlimit/main.cpp) |
+| [skammstofun](https://open.kattis.com/problems/skammstofun) | 1.2 - 1.5 Easy | [C++](./skammstofun/main.cpp) |
+| [sevenwonders](https://open.kattis.com/problems/sevenwonders) | 1.5 Easy | [C++](./sevenwonders/main.cpp) |
+| [ladder](https://open.kattis.com/problems/ladder) | 1.5 Easy | [C++](./ladder/main.cpp) |
+| [heartrate](https://open.kattis.com/problems/heartrate) | 1.5 Easy | [C++](./heartrate/main.cpp) |
+| [kmh](https://open.kattis.com/problems/kmh) | 1.5 Easy | [Python](./kmh/main.py) |
+| [armcoordination](https://open.kattis.com/problems/armcoordination) | 1.6 Easy | [C++](./armcoordination/main.cpp) |
+| [lineup](https://open.kattis.com/problems/lineup) | 1.6 Easy | [C++](./lineup/main.cpp) |
+| [onechicken](https://open.kattis.com/problems/onechicken) | 1.6 Easy | [C++](./onechicken/main.cpp) |
+| [encodedmessage](https://open.kattis.com/problems/encodedmessage) | 1.6 Easy | [C++](./encodedmessage/main.cpp) |
+| [oddgnome](https://open.kattis.com/problems/oddgnome) | 1.6 Easy | [C++](./oddgnome/main.cpp) |
+| [nodup](https://open.kattis.com/problems/nodup) | 1.6 Easy | [Python](./nodup/main.py) |
+| [datum](https://open.kattis.com/problems/datum) | 1.6 Easy | [Python](./datum/main.py) |
+| [oddmanout](https://open.kattis.com/problems/oddmanout) | 1.6 Easy | [C++](./oddmanout/main.cpp) |
+| [kornislav](https://open.kattis.com/problems/kornislav) | 1.6 Easy | [Python](./kornislav/main.py) |
+| [conundrum](https://open.kattis.com/problems/conundrum) | 1.7 Easy | [C++](./conundrum/main.cpp) |
+| [coursescheduling](https://open.kattis.com/problems/coursescheduling) | 1.7 Easy | [C++](./coursescheduling/main.cpp) |
+| [commercials](https://open.kattis.com/problems/commercials) | 1.7 Easy | [C++](./commercials/main.cpp) |
+| [dicegame](https://open.kattis.com/problems/dicegame) | 1.7 Easy | [Python](./dicegame/main.py) |
+| [abc](https://open.kattis.com/problems/abc) | 1.8 Easy | [Python](./abc/main.py) |
+| [sangbok](https://open.kattis.com/problems/sangbok) | 1.4 - 1.8 Easy | [Python](./sangbok/main.py) |
+| [countdoubles](https://open.kattis.com/problems/countdoubles) | 1.8 Easy | [C++](./countdoubles/main.cpp) |
+| [crochetcompetition](https://open.kattis.com/problems/crochetcompetition) | 1.8 Easy | [Python](./crochetcompetition/main.py) |
+| [sidewayssorting](https://open.kattis.com/problems/sidewayssorting) | 1.9 Easy | [Python](./sidewayssorting/main.py) |
+| [aboveaverage](https://open.kattis.com/problems/aboveaverage) | 1.9 Easy | [C++](./aboveaverage/main.cpp) |
+| [empleh](https://open.kattis.com/problems/empleh) | 1.9 Easy | [C++](./empleh/main.cpp) |
+| [prerequisites](https://open.kattis.com/problems/prerequisites) | 2.0 Easy | [C++](./prerequisites/main.cpp) |
+| [tajna](https://open.kattis.com/problems/tajna) | 2.0 Easy | [C++](./tajna/main.cpp) |
+| [grid](https://open.kattis.com/problems/grid) | 2.0 Easy | [C++](./grid/main.cpp) |
+| [haypoints](https://open.kattis.com/problems/haypoints) | 2.0 Easy | [C++](./haypoints/main.cpp) |
+| [nop](https://open.kattis.com/problems/nop) | 2.0 Easy | [C++](./nop/main.cpp) |
+| [vauvau](https://open.kattis.com/problems/vauvau) | 2.0 Easy | [Python](./vauvau/main.py) |
+| [anotherbrick](https://open.kattis.com/problems/anotherbrick) | 2.1 Easy | [C++](./anotherbrick/main.cpp) |
+| [mia](https://open.kattis.com/problems/mia) | 2.1 Easy | [C++](./mia/main.cpp) |
+| [bluetooth](https://open.kattis.com/problems/bluetooth) | 1.4 - 2.1 Easy | [C++](./bluetooth/main.cpp) |
+| [compromise](https://open.kattis.com/problems/compromise) | 2.1 Easy | [C++](./compromise/main.cpp) |
+| [nineknights](https://open.kattis.com/problems/nineknights) | 2.1 Easy | [C++](./nineknights/main.cpp) |
+| [savingdaylight](https://open.kattis.com/problems/savingdaylight) | 2.2 Easy | [C++](./savingdaylight/main.cpp) |
+| [instagraph](https://open.kattis.com/problems/instagraph) | 2.2 Easy | [C++](./instagraph/main.cpp), [Python](./instagraph/main.py) |
+| [artichoke](https://open.kattis.com/problems/artichoke) | 2.3 Easy | [C++](./artichoke/main.cpp) |
+| [marswindow](https://open.kattis.com/problems/marswindow) | 2.3 Easy | [C++](./marswindow/main.cpp) |
+| [islandhopping](https://open.kattis.com/problems/islandhopping) | 2.4 Easy | [C++](./islandhopping/main.cpp) |
+| [battlesimulation](https://open.kattis.com/problems/battlesimulation) | 2.4 Easy | [C++](./battlesimulation/main.cpp) |
+| [justaminute](https://open.kattis.com/problems/justaminute) | 2.5 Easy | [C++](./justaminute/main.cpp) |
+| [friday](https://open.kattis.com/problems/friday) | 2.5 Easy | [Python](./friday/main.py) |
+| [shuffling](https://open.kattis.com/problems/shuffling) | 2.5 Easy | [Python](./shuffling/main.py) |
+| [divisible](https://open.kattis.com/problems/divisible) | 2.6 Easy | [C++](./divisible/main.cpp) |
+| [wertyu](https://open.kattis.com/problems/wertyu) | 2.7 Easy | [C++](./wertyu/main.cpp) |
+| [textmessaging](https://open.kattis.com/problems/textmessaging) | 2.8 Medium | [Python](./textmessaging/main.py) |
+| [helpme](https://open.kattis.com/problems/helpme) | 2.8 Medium | [C++](./helpme/main.cpp) |
+| [listgame](https://open.kattis.com/problems/listgame) | 2.9 Medium | [C++](./listgame/main.cpp) |
+| [digits](https://open.kattis.com/problems/digits) | 3.1 Medium | [C++](./digits/main.cpp), [Python](./digits/main.py) |
+| [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) | 3.1 Medium | [C++](./gottatradesomeofem/main.cpp) |
+| [avoidingtheabyss](https://open.kattis.com/problems/avoidingtheabyss) | 3.5 Medium | [C++](./avoidingtheabyss/main.cpp) |
+| [knittingpattern](https://open.kattis.com/problems/knittingpattern) | 3.7 Medium | [C++](./knittingpattern/main.cpp) |
+| [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | 1.2 - 3.8 Medium | [C++](./basicprogramming2/main.cpp) |
+| [basicprogramming1](https://open.kattis.com/problems/basicprogramming1) | 1.2 - 4.1 Medium | [C++](./basicprogramming1/main.cpp), [Python](./basicprogramming1/main.py) |
+| [memorymatch](https://open.kattis.com/problems/memorymatch) | 4.1 Medium | [Python](./memorymatch/main.py) |
+| [classrooms](https://open.kattis.com/problems/classrooms) | 4.6 Medium | [C++](./classrooms/main.cpp) |
+| [stackingcups](https://open.kattis.com/problems/stackingcups) | 4.8 Medium | [Python](./stackingcups/main.py) |
+| [multiplication](https://open.kattis.com/problems/multiplication) | 5.5 Hard | [Python](./multiplication/main.py) |
+| [infinitecash](https://open.kattis.com/problems/infinitecash) | 6.7 Hard | [Python](./infinitecash/main.py) |
