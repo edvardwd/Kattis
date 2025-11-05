@@ -25,6 +25,7 @@
 | [simonsays](https://open.kattis.com/problems/simonsays) | 1.4 Easy | [Python](./simonsays/main.py) |
 | [busassignment](https://open.kattis.com/problems/busassignment) | 1.4 Easy | [C++](./busassignment/main.cpp) |
 | [arithmeticadaptation](https://open.kattis.com/problems/arithmeticadaptation) | 1.4 Easy | [Python](./arithmeticadaptation/main.py) |
+| [kmh](https://open.kattis.com/problems/kmh) | 1.5 Easy | [Python](./kmh/main.py) |
 | [eyeofsauron](https://open.kattis.com/problems/eyeofsauron) | 1.5 Easy | [Python](./eyeofsauron/main.py) |
 | [karte](https://open.kattis.com/problems/karte) | 1.5 Easy | [C++](./karte/main.cpp) |
 | [alphabetspam](https://open.kattis.com/problems/alphabetspam) | 1.5 Easy | [C++](./alphabetspam/main.cpp) |
@@ -35,7 +36,6 @@
 | [sevenwonders](https://open.kattis.com/problems/sevenwonders) | 1.5 Easy | [C++](./sevenwonders/main.cpp) |
 | [ladder](https://open.kattis.com/problems/ladder) | 1.5 Easy | [C++](./ladder/main.cpp) |
 | [heartrate](https://open.kattis.com/problems/heartrate) | 1.5 Easy | [C++](./heartrate/main.cpp) |
-| [kmh](https://open.kattis.com/problems/kmh) | 1.5 Easy | [Python](./kmh/main.py) |
 | [armcoordination](https://open.kattis.com/problems/armcoordination) | 1.6 Easy | [C++](./armcoordination/main.cpp) |
 | [lineup](https://open.kattis.com/problems/lineup) | 1.6 Easy | [C++](./lineup/main.cpp) |
 | [onechicken](https://open.kattis.com/problems/onechicken) | 1.6 Easy | [C++](./onechicken/main.cpp) |
@@ -44,6 +44,7 @@
 | [nodup](https://open.kattis.com/problems/nodup) | 1.6 Easy | [Python](./nodup/main.py) |
 | [datum](https://open.kattis.com/problems/datum) | 1.6 Easy | [Python](./datum/main.py) |
 | [oddmanout](https://open.kattis.com/problems/oddmanout) | 1.6 Easy | [C++](./oddmanout/main.cpp) |
+| [cups](https://open.kattis.com/problems/cups) | 1.6 Easy | [Python](./cups/main.py) |
 | [kornislav](https://open.kattis.com/problems/kornislav) | 1.6 Easy | [Python](./kornislav/main.py) |
 | [conundrum](https://open.kattis.com/problems/conundrum) | 1.7 Easy | [C++](./conundrum/main.cpp) |
 | [coursescheduling](https://open.kattis.com/problems/coursescheduling) | 1.7 Easy | [C++](./coursescheduling/main.cpp) |
@@ -51,8 +52,8 @@
 | [dicegame](https://open.kattis.com/problems/dicegame) | 1.7 Easy | [Python](./dicegame/main.py) |
 | [abc](https://open.kattis.com/problems/abc) | 1.8 Easy | [Python](./abc/main.py) |
 | [sangbok](https://open.kattis.com/problems/sangbok) | 1.4 - 1.8 Easy | [Python](./sangbok/main.py) |
-| [countdoubles](https://open.kattis.com/problems/countdoubles) | 1.8 Easy | [C++](./countdoubles/main.cpp) |
 | [crochetcompetition](https://open.kattis.com/problems/crochetcompetition) | 1.8 Easy | [Python](./crochetcompetition/main.py) |
+| [countdoubles](https://open.kattis.com/problems/countdoubles) | 1.8 Easy | [C++](./countdoubles/main.cpp) |
 | [sidewayssorting](https://open.kattis.com/problems/sidewayssorting) | 1.9 Easy | [Python](./sidewayssorting/main.py) |
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | 1.9 Easy | [C++](./aboveaverage/main.cpp) |
 | [empleh](https://open.kattis.com/problems/empleh) | 1.9 Easy | [C++](./empleh/main.cpp) |
@@ -61,6 +62,7 @@
 | [grid](https://open.kattis.com/problems/grid) | 2.0 Easy | [C++](./grid/main.cpp) |
 | [haypoints](https://open.kattis.com/problems/haypoints) | 2.0 Easy | [C++](./haypoints/main.cpp) |
 | [nop](https://open.kattis.com/problems/nop) | 2.0 Easy | [C++](./nop/main.cpp) |
+| [multiplications](https://open.kattis.com/problems/multiplications) | 1.3 - 2.0 Easy | [Python](./multiplications/main.py) |
 | [vauvau](https://open.kattis.com/problems/vauvau) | 2.0 Easy | [Python](./vauvau/main.py) |
 | [anotherbrick](https://open.kattis.com/problems/anotherbrick) | 2.1 Easy | [C++](./anotherbrick/main.cpp) |
 | [mia](https://open.kattis.com/problems/mia) | 2.1 Easy | [C++](./mia/main.cpp) |
@@ -89,6 +91,4 @@
 | [basicprogramming1](https://open.kattis.com/problems/basicprogramming1) | 1.2 - 4.1 Medium | [C++](./basicprogramming1/main.cpp), [Python](./basicprogramming1/main.py) |
 | [memorymatch](https://open.kattis.com/problems/memorymatch) | 4.1 Medium | [Python](./memorymatch/main.py) |
 | [classrooms](https://open.kattis.com/problems/classrooms) | 4.6 Medium | [C++](./classrooms/main.cpp) |
-| [stackingcups](https://open.kattis.com/problems/stackingcups) | 4.8 Medium | [Python](./stackingcups/main.py) |
-| [multiplication](https://open.kattis.com/problems/multiplication) | 5.5 Hard | [Python](./multiplication/main.py) |
 | [infinitecash](https://open.kattis.com/problems/infinitecash) | 6.7 Hard | [Python](./infinitecash/main.py) |
