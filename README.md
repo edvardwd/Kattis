@@ -42,6 +42,7 @@
 | [filip](https://open.kattis.com/problems/filip) | [C++](./filip/main.cpp) |
 | [fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | [C++](./fizzbuzz/main.cpp) |
 | [friday](https://open.kattis.com/problems/friday) | [Python](./friday/main.py) |
+| [grid](https://open.kattis.com/problems/grid) | [C++](./grid/main.cpp) |
 | [haypoints](https://open.kattis.com/problems/haypoints) | [C++](./haypoints/main.cpp) |
 | [heartrate](https://open.kattis.com/problems/heartrate) | [C++](./heartrate/main.cpp) |
 | [helpaphd](https://open.kattis.com/problems/helpaphd) | [Python](./helpaphd/main.py) |
