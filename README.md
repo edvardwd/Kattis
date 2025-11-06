@@ -82,6 +82,7 @@
 | [wertyu](https://open.kattis.com/problems/wertyu) | 2.7 Easy | [C++](./wertyu/main.cpp) |
 | [textmessaging](https://open.kattis.com/problems/textmessaging) | 2.8 Medium | [Python](./textmessaging/main.py) |
 | [helpme](https://open.kattis.com/problems/helpme) | 2.8 Medium | [C++](./helpme/main.cpp) |
+| [buttonbashing](https://open.kattis.com/problems/buttonbashing) | 2.8 Medium | [C++](./buttonbashing/main.cpp) |
 | [listgame](https://open.kattis.com/problems/listgame) | 2.9 Medium | [C++](./listgame/main.cpp) |
 | [digits](https://open.kattis.com/problems/digits) | 3.1 Medium | [C++](./digits/main.cpp), [Python](./digits/main.py) |
 | [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) | 3.1 Medium | [C++](./gottatradesomeofem/main.cpp) |
