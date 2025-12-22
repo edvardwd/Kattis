@@ -86,6 +86,7 @@
 | [listgame](https://open.kattis.com/problems/listgame) | 2.9 Medium | [C++](./listgame/main.cpp) |
 | [digits](https://open.kattis.com/problems/digits) | 3.1 Medium | [C++](./digits/main.cpp), [Python](./digits/main.py) |
 | [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) | 3.1 Medium | [C++](./gottatradesomeofem/main.cpp) |
+| [simpleaddition](https://open.kattis.com/problems/simpleaddition) | 3.4 Medium | [Python](./simpleaddition/main.py) |
 | [avoidingtheabyss](https://open.kattis.com/problems/avoidingtheabyss) | 3.5 Medium | [C++](./avoidingtheabyss/main.cpp) |
 | [knittingpattern](https://open.kattis.com/problems/knittingpattern) | 3.7 Medium | [C++](./knittingpattern/main.cpp) |
 | [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | 1.2 - 3.8 Medium | [C++](./basicprogramming2/main.cpp) |
