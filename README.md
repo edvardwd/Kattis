@@ -89,6 +89,7 @@
 | [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) | 3.2 Medium | [C++](./gottatradesomeofem/main.cpp) |
 | [simpleaddition](https://open.kattis.com/problems/simpleaddition) | 3.4 Medium | [Python](./simpleaddition/main.py) |
 | [avoidingtheabyss](https://open.kattis.com/problems/avoidingtheabyss) | 3.5 Medium | [C++](./avoidingtheabyss/main.cpp) |
+| [99problems2](https://open.kattis.com/problems/99problems2) | 1.1 - 3.6 Medium | [C++](./99problems2/main.cpp) |
 | [knittingpattern](https://open.kattis.com/problems/knittingpattern) | 3.7 Medium | [C++](./knittingpattern/main.cpp) |
 | [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | 1.2 - 3.8 Medium | [C++](./basicprogramming2/main.cpp) |
 | [anagramcounting](https://open.kattis.com/problems/anagramcounting) | 3.9 Medium | [Python](./anagramcounting/main.py) |
