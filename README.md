@@ -81,6 +81,7 @@
 | [divisible](https://open.kattis.com/problems/divisible) | 2.6 Easy | [C++](./divisible/main.cpp) |
 | [buttonbashing](https://open.kattis.com/problems/buttonbashing) | 2.7 Easy | [C++](./buttonbashing/main.cpp) |
 | [wertyu](https://open.kattis.com/problems/wertyu) | 2.7 Easy | [C++](./wertyu/main.cpp) |
+| [99problems](https://open.kattis.com/problems/99problems) | 2.7 Easy | [C++](./99problems/main.cpp) |
 | [textmessaging](https://open.kattis.com/problems/textmessaging) | 2.8 Medium | [Python](./textmessaging/main.py) |
 | [helpme](https://open.kattis.com/problems/helpme) | 2.8 Medium | [C++](./helpme/main.cpp) |
 | [listgame](https://open.kattis.com/problems/listgame) | 2.9 Medium | [C++](./listgame/main.cpp) |
