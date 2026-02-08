@@ -90,6 +90,7 @@
 | [8queens](https://open.kattis.com/problems/8queens) | 3.0 Medium | [Python](./8queens/main.py) |
 | [gottatradesomeofem](https://open.kattis.com/problems/gottatradesomeofem) | 3.0 Medium | [C++](./gottatradesomeofem/main.cpp) |
 | [cd](https://open.kattis.com/problems/cd) | 3.2 Medium | [C++](./cd/main.cpp) |
+| [unionfind](https://open.kattis.com/problems/unionfind) | 3.2 Medium | [C++](./unionfind/main.cpp) |
 | [avoidingtheabyss](https://open.kattis.com/problems/avoidingtheabyss) | 3.5 Medium | [C++](./avoidingtheabyss/main.cpp) |
 | [simpleaddition](https://open.kattis.com/problems/simpleaddition) | 3.5 Medium | [Python](./simpleaddition/main.py) |
 | [basicprogramming2](https://open.kattis.com/problems/basicprogramming2) | 1.2 - 3.6 Medium | [C++](./basicprogramming2/main.cpp) |
