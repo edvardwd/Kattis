@@ -97,6 +97,7 @@
 | [anagramcounting](https://open.kattis.com/problems/anagramcounting) | 3.6 Medium | [Python](./anagramcounting/main.py) |
 | [99problems2](https://open.kattis.com/problems/99problems2) | 1.1 - 3.7 Medium | [C++](./99problems2/main.cpp) |
 | [knittingpattern](https://open.kattis.com/problems/knittingpattern) | 3.7 Medium | [C++](./knittingpattern/main.cpp) |
+| [almostunionfind](https://open.kattis.com/problems/almostunionfind) | 4.0 Medium | [C++](./almostunionfind/main.cpp) |
 | [basicprogramming1](https://open.kattis.com/problems/basicprogramming1) | 1.2 - 4.1 Medium | [C++](./basicprogramming1/main.cpp), [Python](./basicprogramming1/main.py) |
 | [memorymatch](https://open.kattis.com/problems/memorymatch) | 4.1 Medium | [Python](./memorymatch/main.py) |
 | [classrooms](https://open.kattis.com/problems/classrooms) | 5.0 Medium | [C++](./classrooms/main.cpp) |
