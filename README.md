@@ -39,6 +39,7 @@
 | [heartrate](https://open.kattis.com/problems/heartrate) | 1.5 Easy | [C++](./heartrate/main.cpp) |
 | [oddmanout](https://open.kattis.com/problems/oddmanout) | 1.5 Easy | [C++](./oddmanout/main.cpp) |
 | [cups](https://open.kattis.com/problems/cups) | 1.5 Easy | [Python](./cups/main.py) |
+| [nastyhacks](https://open.kattis.com/problems/nastyhacks) | 1.5 Easy | [C++](./nastyhacks/main.cpp) |
 | [armcoordination](https://open.kattis.com/problems/armcoordination) | 1.6 Easy | [C++](./armcoordination/main.cpp) |
 | [conundrum](https://open.kattis.com/problems/conundrum) | 1.6 Easy | [C++](./conundrum/main.cpp) |
 | [commercials](https://open.kattis.com/problems/commercials) | 1.6 Easy | [C++](./commercials/main.cpp) |
