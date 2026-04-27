@@ -50,6 +50,7 @@
 | [oddgnome](https://open.kattis.com/problems/oddgnome) | 1.6 Easy | [C++](./oddgnome/main.cpp) |
 | [arithmeticadaptation](https://open.kattis.com/problems/arithmeticadaptation) | 1.6 Easy | [Python](./arithmeticadaptation/main.py) |
 | [kornislav](https://open.kattis.com/problems/kornislav) | 1.6 Easy | [Python](./kornislav/main.py) |
+| [areal](https://open.kattis.com/problems/areal) | 1.6 Easy | [C++](./areal/main.cpp) |
 | [abc](https://open.kattis.com/problems/abc) | 1.7 Easy | [Python](./abc/main.py) |
 | [backspace](https://open.kattis.com/problems/backspace) | 1.1 - 1.7 Easy | [C++](./backspace/main.cpp) |
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | 1.7 Easy | [C++](./aboveaverage/main.cpp) |
