@@ -54,6 +54,7 @@
 | [abc](https://open.kattis.com/problems/abc) | 1.7 Easy | [Python](./abc/main.py) |
 | [backspace](https://open.kattis.com/problems/backspace) | 1.1 - 1.7 Easy | [C++](./backspace/main.cpp) |
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | 1.7 Easy | [C++](./aboveaverage/main.cpp) |
+| [greedilyincreasing](https://open.kattis.com/problems/greedilyincreasing) | 1.7 Easy | [C++](./greedilyincreasing/main.cpp) |
 | [sangbok](https://open.kattis.com/problems/sangbok) | 1.3 - 1.8 Easy | [Python](./sangbok/main.py) |
 | [crochetcompetition](https://open.kattis.com/problems/crochetcompetition) | 1.8 Easy | [Python](./crochetcompetition/main.py) |
 | [countdoubles](https://open.kattis.com/problems/countdoubles) | 1.8 Easy | [C++](./countdoubles/main.cpp) |
