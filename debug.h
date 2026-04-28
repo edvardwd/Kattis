@@ -14,11 +14,8 @@ using namespace std;
 // Print single value with variable name
 #define dbg(x) cerr << #x << " = " << (x) << "\n"
 
-// Print with a label
-#define dbgl(label, x) cerr << label << " = " << (x) << "\n"
-
-// Print current line
-#define here() cerr << "reached line " << __LINE__ << "\n"
+// Print debug msg
+#define dbgmsg(msg) cerr << msg << "\n"
 
 // --- Operator overloads ---
 
