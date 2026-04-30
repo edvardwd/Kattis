@@ -8,6 +8,7 @@
 #include <unordered_map>
 #include <set>
 #include <unordered_set>
+#include <queue>
 
 using namespace std;
 
@@ -22,6 +23,20 @@ using namespace std;
 template<typename A, typename B>
 ostream& operator<<(ostream& os, const pair<A, B>& p) {
     return os << "(" << p.first << ", " << p.second << ")";
+}
+
+template<typename T>
+ostream& operator<<(ostream& os, const priority_queue<T>& pq_ref) {
+    auto pq = pq_ref;
+    os << "pq{";
+    bool first = true;
+    while (!pq.empty()) {
+        if (!first) os << ", ";
+        os << pq.top();
+        pq.pop();
+        first = false;
+    }
+    return os << "}";
 }
 
 template<typename T>
