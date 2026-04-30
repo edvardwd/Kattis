@@ -70,6 +70,7 @@
 | [anotherbrick](https://open.kattis.com/problems/anotherbrick) | 2.0 Easy | [C++](./anotherbrick/main.cpp) |
 | [mia](https://open.kattis.com/problems/mia) | 2.0 Easy | [C++](./mia/main.cpp) |
 | [nineknights](https://open.kattis.com/problems/nineknights) | 2.0 Easy | [C++](./nineknights/main.cpp) |
+| [busnumbers](https://open.kattis.com/problems/busnumbers) | 2.0 Easy | [C++](./busnumbers/main.cpp) |
 | [different](https://open.kattis.com/problems/different) | 2.1 Easy | [C++](./different/main.cpp) |
 | [grid](https://open.kattis.com/problems/grid) | 2.1 Easy | [C++](./grid/main.cpp) |
 | [bluetooth](https://open.kattis.com/problems/bluetooth) | 1.4 - 2.1 Easy | [C++](./bluetooth/main.cpp) |
