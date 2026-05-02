@@ -9,3 +9,5 @@
 *.txt
 __pycache__
 *.json
+pyproject.toml
+*.lock

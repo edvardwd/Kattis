@@ -51,6 +51,7 @@
 | [arithmeticadaptation](https://open.kattis.com/problems/arithmeticadaptation) | 1.6 Easy | [Python](./arithmeticadaptation/main.py) |
 | [kornislav](https://open.kattis.com/problems/kornislav) | 1.6 Easy | [Python](./kornislav/main.py) |
 | [areal](https://open.kattis.com/problems/areal) | 1.6 Easy | [C++](./areal/main.cpp) |
+| [sortofsorting](https://open.kattis.com/problems/sortofsorting) | 1.6 Easy | [C++](./sortofsorting/main.cpp) |
 | [abc](https://open.kattis.com/problems/abc) | 1.7 Easy | [Python](./abc/main.py) |
 | [backspace](https://open.kattis.com/problems/backspace) | 1.1 - 1.7 Easy | [C++](./backspace/main.cpp) |
 | [aboveaverage](https://open.kattis.com/problems/aboveaverage) | 1.7 Easy | [C++](./aboveaverage/main.cpp) |
@@ -78,6 +79,7 @@
 | [savingdaylight](https://open.kattis.com/problems/savingdaylight) | 2.2 Easy | [C++](./savingdaylight/main.cpp) |
 | [battlesimulation](https://open.kattis.com/problems/battlesimulation) | 2.2 Easy | [C++](./battlesimulation/main.cpp) |
 | [marswindow](https://open.kattis.com/problems/marswindow) | 2.2 Easy | [C++](./marswindow/main.cpp) |
+| [bank](https://open.kattis.com/problems/bank) | 2.2 Easy | [C++](./bank/main.cpp) |
 | [islandhopping](https://open.kattis.com/problems/islandhopping) | 2.3 Easy | [C++](./islandhopping/main.cpp) |
 | [instagraph](https://open.kattis.com/problems/instagraph) | 2.3 Easy | [C++](./instagraph/main.cpp) |
 | [artichoke](https://open.kattis.com/problems/artichoke) | 2.3 Easy | [C++](./artichoke/main.cpp) |
